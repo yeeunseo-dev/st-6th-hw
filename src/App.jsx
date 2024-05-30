@@ -29,6 +29,7 @@ const App = () => {
       <List items={filteredItems} />
     </div>
   );
+  g;
 };
 
 export default App;
